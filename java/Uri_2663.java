@@ -50,6 +50,8 @@ public class Uri_2663 {
         	else break;
         }
         System.out.println(classificados);
+
+		sc.close();
     }
     
 	private static void sort(int[] v, int inicio, int fim) {

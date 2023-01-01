@@ -37,6 +37,8 @@ public class Uri_2896 {
         	int K = sc.nextInt();
         	System.out.println((N % K) + (N / K));
         }
+
+        sc.close();
     }
 	
 }

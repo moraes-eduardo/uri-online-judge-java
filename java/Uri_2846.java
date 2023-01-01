@@ -45,6 +45,8 @@ public class Uri_2846 {
 			}
 		}
 		System.out.println(res);
+
+		sc.close();
 	}
 
 	private static boolean square(long x){

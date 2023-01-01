@@ -36,6 +36,8 @@ public class Uri_2787 {
         	System.out.println(1);
         else
         	System.out.println(0);
+        
+        sc.close();
     }
 	
 }

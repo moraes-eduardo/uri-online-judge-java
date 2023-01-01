@@ -51,6 +51,8 @@ public class Uri_2868 {
     		}
     		faustao.append("ou!");
     		System.out.println(faustao);
+
+			sc.close();
     	}
     }
     

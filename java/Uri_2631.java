@@ -77,6 +77,8 @@ public class Uri_2631 {
 			}
 			if (sc.hasNext()) System.out.print("\n");
 		}
+
+        sc.close();
 	}
 
 }

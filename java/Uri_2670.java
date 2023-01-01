@@ -49,6 +49,8 @@ public class Uri_2670 {
         else 
         	minutos = (A3 + A1) * 2;
         System.out.println(minutos);
+
+        sc.close();
     }
 	
 }

@@ -43,6 +43,8 @@ public class Uri_2930 {
     	} else {
     		System.out.println("Parece o trabalho do meu filho!\nFail! Entao eh nataaaaal!");
     	}
+
+		sc.close();
     }
     
 }

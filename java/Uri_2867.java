@@ -37,6 +37,8 @@ public class Uri_2867 {
         	int digitos = (int) (Math.log10(Math.pow(N, M)) + 1);
         	System.out.println(digitos);
         }
+
+        sc.close();
     }
 	
 }

@@ -34,6 +34,8 @@ public class Uri_2766 {
 		System.out.println(nomes[2]);
 		System.out.println(nomes[6]);
 		System.out.println(nomes[8]);
+
+		sc.close();
 	}
 	
 }

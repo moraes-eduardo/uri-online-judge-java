@@ -62,6 +62,8 @@ public class Uri_2783 {
         for (int i : carimbadas) 
         	if (!compradas.contains(i)) faltam++;
         System.out.println(faltam);
+
+        sc.close();
     }
 	
 }

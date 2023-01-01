@@ -44,6 +44,8 @@ public class Uri_2761 {
 		System.out.printf("%d%.6f%c%s\n", A, B, C, D);
 		System.out.printf("%d\t%.6f\t%c\t%s\n", A, B, C, D);
 		System.out.printf("%10d%10.6f%10c%10s\n", A, B, C, D);
+
+		sc.close();
 	}
 	
 }

@@ -47,6 +47,8 @@ public class Uri_2791 {
         for (int i=0; i < c.length; i++) {
         	if (c[i] == 1) System.out.println(i+1);
         }
+
+        sc.close();
     }
 	
 }

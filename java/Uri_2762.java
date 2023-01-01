@@ -30,6 +30,8 @@ public class Uri_2762 {
 		int A = Integer.valueOf(STR.split("\\.")[0]);
 		int B = Integer.valueOf(STR.split("\\.")[1]);
 		System.out.printf("%d.%d\n", B, A);
+
+		sc.close();
 	}
 	
 }

@@ -43,6 +43,8 @@ public class Uri_2626 {
 	
 	public static void main(String[] args) throws IOException {
 		Scanner sc = new Scanner(System.in);
+
+		sc.close();
 		while (sc.hasNext()) {
 			String dodo = sc.next().toLowerCase().trim();
 			String leo = sc.next().toLowerCase().trim();
@@ -58,6 +60,8 @@ public class Uri_2626 {
 			else
 				throw new NullPointerException("invalid game");
 		}
+
+		
 	}
 	
 	private static boolean isDraw(String a, String b, String c) {

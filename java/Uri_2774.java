@@ -59,6 +59,8 @@ public class Uri_2774 {
             ans = Math.sqrt(sum / (double) (QT - 1));
             System.out.println(String.format("%.5f", ans));
     	}
+
+		sc.close();
     }
     
 }

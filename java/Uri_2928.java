@@ -42,6 +42,9 @@ public class Uri_2928 {
     	int N = sc.nextInt();
     	String[] linhas = new String[N];
     	int saltos = 0;
+		
+		sc.close();
+
     	for (int i = 0; i < N; i++) {
     		linhas[i] = sc.next();
     	}
@@ -58,6 +61,7 @@ public class Uri_2928 {
     		}
     	}
     	System.out.println(saltos);
+
     }
     
 }

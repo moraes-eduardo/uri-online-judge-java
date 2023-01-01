@@ -66,6 +66,8 @@ public class Uri_2813 {
         	}
         }
         System.out.println(casaComprado + " " + trabComprado);
+
+		sc.close();
     }
 	
 }

@@ -51,6 +51,8 @@ public class Uri_2779 {
         }
         int faltam = N - compradas.size();
         System.out.println(faltam);
+
+        sc.close();
     }
 	
 }

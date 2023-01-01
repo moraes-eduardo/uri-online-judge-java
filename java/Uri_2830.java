@@ -52,6 +52,8 @@ public class Uri_2830 {
     		System.out.println("semifinal");
     	else
     		System.out.println("final");
+		
+		sc.close();
     }
     
 }

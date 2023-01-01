@@ -50,6 +50,8 @@ public class Uri_2582 {
 			Musica music = Musica.valueOf("_"  + (X + Y));
 			System.out.println(music.nome);
 		}
+
+		sc.close();
 	}
 
 	enum Musica {

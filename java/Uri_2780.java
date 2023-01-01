@@ -50,6 +50,8 @@ public class Uri_2780 {
         	System.out.println(2);
         else
         	System.out.println(3);
+
+        sc.close();
     }
 	
 }

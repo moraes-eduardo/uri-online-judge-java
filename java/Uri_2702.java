@@ -56,6 +56,8 @@ public class Uri_2702 {
     	if (Br > Ba) semComida += Br - Ba;
     	if (Pr > Pa) semComida += Pr - Pa;
     	System.out.println(semComida);
+
+		sc.close();
     }
 	
 }

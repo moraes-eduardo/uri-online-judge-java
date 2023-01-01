@@ -65,6 +65,8 @@ public class Uri_2845 {
 				break;
 			}
 		}
+
+		sc.close();
 	}
 	
     private static int mdc(int a, int b){

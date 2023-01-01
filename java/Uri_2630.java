@@ -61,6 +61,8 @@ public class Uri_2630 {
 			
 			System.out.println(String.format("Caso #%d: %d", i, answer));
 		}
+
+		sc.close();
 	}
 	
 	private static int getMean(int a, int b, int c) {

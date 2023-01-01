@@ -55,6 +55,8 @@ public class Uri_2686 {
 	    		System.out.printf("%02d:%02d:%02d%n", horas.intValue(), minutos.intValue(), segundos.intValue());
     		}
     	}
+
+		sc.close();
     }
     
 }

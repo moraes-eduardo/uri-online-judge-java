@@ -30,6 +30,8 @@ public class Uri_2839 {
     	Scanner sc = new Scanner(System.in);
     	int meias = sc.nextInt();
     	System.out.println(meias + 1);
+
+		sc.close();
     }
     
 }

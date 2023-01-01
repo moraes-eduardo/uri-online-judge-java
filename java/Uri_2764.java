@@ -35,6 +35,8 @@ public class Uri_2764 {
 		System.out.printf("%s/%s/%s\n", MM, DD, AA);
 		System.out.printf("%s/%s/%s\n", AA, MM, DD);
 		System.out.printf("%s-%s-%s\n", DD, MM, AA);
+
+		sc.close();
 	}
 	
 }

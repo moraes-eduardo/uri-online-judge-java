@@ -52,6 +52,8 @@ public class Uri_2708 {
     	}
     	System.out.println(turistas);
     	System.out.println(jipes);
+
+		sc.close();
     }
     
 }

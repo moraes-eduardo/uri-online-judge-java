@@ -36,6 +36,8 @@ public class Uri_2890 {
 			long result = ((11 * pow2(n) + pow4(n)) % MOD) * inverso(12) % MOD;
 			System.out.println(result);
 		}
+
+		sc.close();
 	}
 	
 	public static long pow2(long a) {

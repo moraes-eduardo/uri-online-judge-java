@@ -57,6 +57,8 @@ public class Uri_2552 {
 				System.out.print("\n");
 			}
 		}
+
+		sc.close();
 	}
 	
 	private static int a(int[][] mat, int i, int j) {

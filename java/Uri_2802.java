@@ -30,6 +30,8 @@ public class Uri_2802 {
         int N = sc.nextInt();
         double resposta = (Math.pow(N, 4.0) - (6.0 * Math.pow(N, 3.0)) + (23.0 * Math.pow(N, 2.0)) - (18.0 * N) + 24.0 ) / 24.0;
         System.out.println(String.format("%.0f", resposta));
+
+        sc.close();
     }
 	
 }

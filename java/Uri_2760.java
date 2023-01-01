@@ -44,6 +44,8 @@ public class Uri_2760 {
 		System.out.printf("%s%s%s\n", B, C, A);
 		System.out.printf("%s%s%s\n", C, A, B);
 		System.out.printf("%.10s%.10s%.10s\n", A, B, C);
+
+		sc.close();
 	}
 	
 }

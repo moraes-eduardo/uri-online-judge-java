@@ -49,7 +49,9 @@ public class Uri_2829 {
 		
 		for (String str : lista) { 
 			System.out.println(str);
-		}		
+		}	
+		
+		sc.close();
 	}
 	
 }

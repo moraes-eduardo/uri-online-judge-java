@@ -32,6 +32,8 @@ public class Uri_2765 {
 		String B = STR.split(",")[1];
 		System.out.println(A);
 		System.out.println(B);
+
+		sc.close();
 	}
 	
 }

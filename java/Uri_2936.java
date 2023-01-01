@@ -47,6 +47,9 @@ public class Uri_2936 {
     		total += sc.nextInt() * porcoes[i];
 		}
     	System.out.println(total);
+
+
+        sc.close();
     }
     
 }

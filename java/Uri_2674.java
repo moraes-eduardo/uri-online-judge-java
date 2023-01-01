@@ -39,6 +39,8 @@ public class Uri_2674 {
             	System.out.println("Nada");
             }
         }
+
+		sc.close();
     }
     
     private static boolean isPrime(int n) {

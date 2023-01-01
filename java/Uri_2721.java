@@ -48,6 +48,8 @@ public class Uri_2721 {
     		ganhadora = 8;
     	
     	System.out.println(RENAS[ganhadora]);
+
+		sc.close();
     }
     
 }

@@ -38,6 +38,8 @@ public class Uri_2653 {
     		joias.add(joia);
     	}
     	System.out.println(joias.size());
+
+		sc.close();
     }
 	
 }

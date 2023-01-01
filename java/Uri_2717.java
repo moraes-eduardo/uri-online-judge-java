@@ -43,6 +43,8 @@ public class Uri_2717 {
     		System.out.println("Deixa para amanha!");
     	else
     		System.out.println("Farei hoje!");
+		
+		sc.close();
     }
 	
 }

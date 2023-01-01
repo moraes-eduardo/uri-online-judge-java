@@ -36,6 +36,8 @@ public class Uri_2685 {
     		else if (graus < 360) System.out.println("De Madrugada!!");
     		else System.out.println("Bom Dia!!");
     	}
+
+		sc.close();
     }
     
 }

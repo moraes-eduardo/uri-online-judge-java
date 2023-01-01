@@ -40,6 +40,8 @@ public class Uri_2922 {
     		else
     			System.out.println(b - a - 1);
     	}
+
+		sc.close();
     }
     
 }

@@ -41,6 +41,8 @@ public class Uri_2808 {
 			System.out.println("VALIDO");
 		else 
 			System.out.println("INVALIDO");
+		
+		sc.close();
 	}
 	
 	private static boolean valid(int a1, int a2, int b1, int b2) {

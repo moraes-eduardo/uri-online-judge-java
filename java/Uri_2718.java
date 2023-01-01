@@ -87,6 +87,8 @@ public class Uri_2718 {
 			// Printando a sequencia maxima (saida)
 			System.out.println(sequenciaMaxima);
     	}
+
+		sc.close();
     }
     
 }

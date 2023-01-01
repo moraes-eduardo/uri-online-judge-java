@@ -96,6 +96,8 @@ public class Uri_2758 {
 		df = new DecimalFormat("0");
 		System.out.println("A = " + df.format(A) + ", B = " + df.format(B));
 		System.out.println("C = " + df.format(C) + ", D = " + df.format(D));
+
+		sc.close();
 	}
 	
 }

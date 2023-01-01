@@ -29,6 +29,8 @@ public class Uri_2581 {
 			String question = sc.nextLine();
 			System.out.println("I am Toorg!");
 		}
+
+		sc.close();
 	}
 	
 }

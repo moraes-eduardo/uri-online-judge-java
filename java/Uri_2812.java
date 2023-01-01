@@ -68,6 +68,8 @@ public class Uri_2812 {
 			}
 			System.out.println(str.trim());
 		}
+
+		sc.close();
 	}
 	
 }

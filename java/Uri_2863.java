@@ -38,6 +38,8 @@ public class Uri_2863 {
         	}
         	System.out.println(melhor);
         }
+
+		sc.close();
     }
 	
 }

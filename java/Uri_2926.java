@@ -31,6 +31,8 @@ public class Uri_2926 {
     		a += "a";
     	}
     	System.out.println("Entao eh Natal!".replace("a", a));
+
+		sc.close();
     }
     
 }

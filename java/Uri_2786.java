@@ -49,6 +49,8 @@ public class Uri_2786 {
         int lajes2 = ((L - 1) * 2) + ((C - 1) * 2);
         System.out.println(lajes1);
         System.out.println(lajes2);
+
+        sc.close();
     }
 	
 }

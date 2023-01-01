@@ -55,6 +55,8 @@ public class Uri_2551 {
 				}
 			}
 		}
+
+		sc.close();
 	}
 	
 }

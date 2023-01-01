@@ -64,6 +64,8 @@ public class Uri_2554 {
 			}
 			System.out.println(oficialDate.trim());
 		}
+
+		sc.close();
 	}
 	
 }

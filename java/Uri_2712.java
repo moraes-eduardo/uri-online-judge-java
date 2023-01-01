@@ -59,6 +59,8 @@ public class Uri_2712 {
     			System.out.println("FAILURE");
     		}
     	}
+
+		sc.close();
     }
     
     public static boolean isValidTag(String placa) {

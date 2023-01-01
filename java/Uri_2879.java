@@ -65,6 +65,8 @@ public class Uri_2879 {
         	if (sc.nextInt() != 1) vitorias++;
         }
         System.out.println(vitorias);
+
+        sc.close();
     }
 	
 }

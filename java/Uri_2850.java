@@ -35,6 +35,8 @@ public class Uri_2850 {
             else if (str.equalsIgnoreCase("nenhuma")) System.out.println("portugues");
             else System.out.println("caiu");
         }
+
+        sc.close();
     }
 	
 }

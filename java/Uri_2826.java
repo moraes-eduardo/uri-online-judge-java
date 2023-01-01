@@ -48,6 +48,8 @@ public class Uri_2826 {
 			System.out.println(A);
 			System.out.println(B);
 		}
+
+		sc.close();
 	}
 	
 }

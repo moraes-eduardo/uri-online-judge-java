@@ -51,6 +51,8 @@ public class Uri_2927 {
     		else
     			System.out.println("Igor bolado!");
     	}
+
+        sc.close();
     }
     
 }

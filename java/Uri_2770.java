@@ -41,6 +41,8 @@ public class Uri_2770 {
 					System.out.println("Nao");
 			}
 		}
+
+		sc.close();
 	}
 	
 }

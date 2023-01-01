@@ -37,6 +37,8 @@ public class Uri_2862 {
         	else 
         		System.out.println("Inseto!");
         }
+
+        sc.close();
     }
 	
 }

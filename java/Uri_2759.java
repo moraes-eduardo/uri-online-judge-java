@@ -54,6 +54,8 @@ public class Uri_2759 {
 		System.out.printf("A = %c, B = %c, C = %c\n", A, B, C);
 		System.out.printf("A = %c, B = %c, C = %c\n", B, C, A);
 		System.out.printf("A = %c, B = %c, C = %c\n", C, A, B);
+
+      sc.close();
 	}
 	
 }

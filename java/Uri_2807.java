@@ -47,6 +47,8 @@ public class Uri_2807 {
 			if (i < N-1) System.out.print(numbers[i] + " ");
 			else System.out.println(numbers[i]);
 		}
+
+		sc.close();
 	}
 
 	private static void sort(int[] v, int inicio, int fim) {

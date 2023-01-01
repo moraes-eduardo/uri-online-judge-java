@@ -48,6 +48,8 @@ public class Uri_2633 {
             }
             System.out.println(String.join(" ", carnes.values()));
         }
+
+        sc.close();
     }
 	
 }
