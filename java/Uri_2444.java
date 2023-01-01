@@ -62,6 +62,8 @@ public class Uri_2444 {
 			if (V < 0)   V = 0;
 		}
 		System.out.println(V);
+
+		sc.close();
 	}
 
 }

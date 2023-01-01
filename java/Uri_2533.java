@@ -58,6 +58,8 @@ public class Uri_2533 {
 			double resultado = totalNC / (totalC * 100.0);
 			System.out.println(String.format("%.4f", resultado));
 		}
+
+		sc.close();
 	}
 	
 }

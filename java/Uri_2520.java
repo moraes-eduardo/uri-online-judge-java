@@ -72,6 +72,8 @@ public class Uri_2520 {
 			
 			System.out.println(distancia);
 		}
+
+		sc.close();
 	}
 	
 }

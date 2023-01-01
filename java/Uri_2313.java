@@ -45,6 +45,8 @@ public class Uri_2313 {
 			else 
 				System.out.println("Retangulo: N");
 		}
+
+		sc.close();
 	}
 	
 	private static boolean isValidTriangle(int A, int B, int C) {

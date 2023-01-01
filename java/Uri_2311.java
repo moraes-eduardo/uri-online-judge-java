@@ -49,6 +49,7 @@ public class Uri_2311 {
 			double notaFinal = calcularNotaFinal(notas, dificuldade);
 			System.out.println(String.format("%s %.2f", nome, notaFinal));
 		}
+		sc.close();
 	}
 	
 	private static void zerarNotaMaisBaixa(double[] notas) {

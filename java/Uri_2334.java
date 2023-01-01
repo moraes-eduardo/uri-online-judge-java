@@ -41,6 +41,8 @@ public class Uri_2334 {
 			if (N.compareTo(br) == 0) break;
 			System.out.println(N.compareTo(BigInteger.ZERO) == 0 ? 0 : N.subtract(sub));
 		}
+
+		sc.close();
 	}
 	
 }

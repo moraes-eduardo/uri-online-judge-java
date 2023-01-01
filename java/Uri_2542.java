@@ -78,6 +78,8 @@ public class Uri_2542 {
 			else
 				System.out.println("Leonador");
 		}
+
+		sc.close();
 	}
 	
 }

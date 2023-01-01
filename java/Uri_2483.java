@@ -32,6 +32,8 @@ public class Uri_2483 {
 			a += "a";
 		}
 		System.out.printf("Feliz nat%sl!", a);
+
+		sc.close();
 	}
 	
 }

@@ -66,6 +66,8 @@ public class Uri_2486 {
 
 			T = sc.nextInt();
 		}
+
+		sc.close();
 	}
 
 	enum Alimento {

@@ -44,6 +44,8 @@ public class Uri_2338 {
 			String morse = sc.next();
 			System.out.println(translateMessage(morse));
 		}
+
+		sc.close();
 	}
 	
 	private static String translateMessage(String morse) {

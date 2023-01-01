@@ -59,6 +59,8 @@ public class Uri_2534 {
 				System.out.println(consulta);
 			}
 		}
+
+		sc.close();
 	}
 
 	private static void quickSort(int[] v, int inicio, int fim) {

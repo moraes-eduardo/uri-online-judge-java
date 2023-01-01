@@ -43,6 +43,8 @@ public class Uri_2510 {
 			String vilao = sc.nextLine();
 			System.out.println("Y");
 		}
+
+		sc.close();
 	}
 	
 }

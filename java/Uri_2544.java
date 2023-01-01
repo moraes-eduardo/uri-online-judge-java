@@ -42,6 +42,8 @@ public class Uri_2544 {
 			int N = sc.nextInt();
 			System.out.println(log2(N));
 		}
+
+		sc.close();
 	}
 	
 	private static int log2(int N) {

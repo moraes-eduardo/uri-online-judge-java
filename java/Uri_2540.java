@@ -57,6 +57,8 @@ public class Uri_2540 {
 			else
 				System.out.println("acusacao arquivada");
 		}
+
+		sc.close();
 	}
 	
 }

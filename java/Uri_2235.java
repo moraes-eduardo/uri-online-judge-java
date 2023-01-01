@@ -43,6 +43,8 @@ public class Uri_2235 {
 			System.out.println("S");
 		else 
 			System.out.println("N");
+
+		sc.close();
 	}
 	
 }

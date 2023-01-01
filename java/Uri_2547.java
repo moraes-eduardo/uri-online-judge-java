@@ -54,6 +54,8 @@ public class Uri_2547 {
 			}
 			System.out.println(cont);
 		}
+
+		sc.close();
 	}
 	
 }

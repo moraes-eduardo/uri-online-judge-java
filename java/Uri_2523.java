@@ -51,6 +51,8 @@ public class Uri_2523 {
 			}
 			System.out.println(word);
 		}
+
+		sc.close();
 	}
 	
 }

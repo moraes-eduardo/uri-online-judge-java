@@ -47,6 +47,8 @@ public class Uri_2409 {
 		else if (C <= H && A <= L) System.out.println("S");
 		else if (C <= H && B <= L) System.out.println("S");
 		else					   System.out.println("N");
+
+		sc.close();
     }
     
 }

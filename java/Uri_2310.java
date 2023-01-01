@@ -43,6 +43,8 @@ public class Uri_2310 {
 		System.out.println(String.format("Pontos de Saque: %.2f", bloqueios) + " %.");
 		System.out.println(String.format("Pontos de Bloqueio: %.2f", saques) + " %.");
 		System.out.println(String.format("Pontos de Ataque: %.2f", ataques) + " %.");
+
+		sc.close();
 	}
 	
 }
